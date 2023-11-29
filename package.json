@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Algorithms and data structures book",
   "dependencies": {
-    "ejs": "^2.3.4",
+    "ejs": "^3.1.7",
     "katex": "^0.5.1",
     "http-server": "^0.8.5",
     "lodash": "^3.10.1",
